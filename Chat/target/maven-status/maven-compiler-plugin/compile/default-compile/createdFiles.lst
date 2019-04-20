@@ -1,0 +1,17 @@
+controller\ChatServlet.class
+controller\LoginServlet.class
+bean\Perception.class
+bean\Request.class
+controller\SendMessageServlet.class
+util\WebSocketDemo.class
+controller\getFriendsServlet.class
+bean\User.class
+controller\SimpleCORSFilter.class
+controller\SingleChatServlet.class
+service\AddService.class
+util\WebSocketSingle.class
+util\DBCPFactory.class
+test.class
+controller\addFriendServlet.class
+controller\registerServlet.class
+util\GetHttpSessionConfigurator.class
